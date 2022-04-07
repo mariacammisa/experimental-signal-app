@@ -1,26 +1,26 @@
 {
-   "name": "Experimental Signal App",
-   "description": "experimental signal app",
-   "long_description": "app only for experimental purposes only",
-   "url": "https://signal-app-cristiandley.vercel.app/public/manifest.json",
-   "homepage": "https://signal-app-cristiandley.vercel.app",
-   "developer": "cristiandley.com",
-   "logo_url": "https://avatars.githubusercontent.com/u/1873659?s=60&v=4",
-   "signals": [
+  "name": "Experimental Signal App",
+  "description": "experimental signal app",
+  "long_description": "app only for experimental purposes only",
+  "url": "https://signal-app-mcammisa.vercel.app/public/manifest.json",
+  "homepage": "https://signal-app-mcammisa.vercel.app",
+  "developer": "cristiandley.com",
+  "logo_url": "https://avatars.githubusercontent.com/u/1873659?s=60&v=4",
+  "signals": [
     {
-      "id": "signal_app.sample_information",
-      "name": "Site Sample Information",
-      "severity": "info",
-      "factor": "sample_information",
+      "id": "signal_app.example_information",
+      "name": "Site Sample Alpha signal app Information",
+      "severity": "positive",
+      "factor": "network_security",
       "long_description": "this is a long description, describes the nature of this signal, how they get detected, etc.",
       "recommendation": "how to remediate this signal (applies only if not positive)",
-      "sent_by": "cleyes@securityscorecard.io",
+      "sent_by": "mcammisa@securityscorecard.io",
       "references": [
         {
-          "link": "https://signal-app-cristiandley.vercel.app/more-info/",
+          "link": "https://signal-app-mcammisa.vercel.app/more-info/",
           "text": "Caption for this Link"
         }
       ]
     }
-  ]  
+  ]
 }
