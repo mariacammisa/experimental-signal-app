@@ -12,7 +12,7 @@ const TOKEN = 'YOUR_TOKEN';
 
 const ssc = SSC({ token: TOKEN, host: 'https://platform-api.securityscorecard.tech' });
 
-server.get('/', async (request, reply) => reply.send("hi"));
+server.get('/', async (request, reply) => reply.send("hi there!"));
 
 // this is an event that could be dispatched by a custom event, 
 // for the sole purpose of the example, it will be propagated using a post event
