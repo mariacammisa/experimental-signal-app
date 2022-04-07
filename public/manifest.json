@@ -2,9 +2,9 @@
   "name": "Experimental Signal App",
   "description": "experimental signal app",
   "long_description": "app only for experimental purposes only",
-  "url": "https://signal-app-mcammisa.vercel.app/public/manifest.json",
-  "homepage": "https://signal-app-mcammisa.vercel.app",
-  "developer": "cristiandley.com",
+  "url": "https://experimental-signal-app.vercel.app/public/manifest.json",
+  "homepage": "https://experimental-signal-app.vercel.app/",
+  "developer": "mcammisa",
   "logo_url": "https://avatars.githubusercontent.com/u/1873659?s=60&v=4",
   "signals": [
     {
@@ -17,7 +17,7 @@
       "sent_by": "mcammisa@securityscorecard.io",
       "references": [
         {
-          "link": "https://signal-app-mcammisa.vercel.app/more-info/",
+          "link": "https://experimental-signal-app.vercel.app//more-info/",
           "text": "Caption for this Link"
         }
       ]
